@@ -1,5 +1,5 @@
 # KD Trees
-This is the code repository for the final project of Stanford's CS106b which implements a KD Tree and conducts a K Nearest Neighbor search.
+This is the code repository for the final project of Stanford's CS106b which implements a KD Tree and conducts a K Nearest Neighbor search. This repository uses Stanford's C++ library.
 
 ## FinalReport.pdf
 Final report that explains the motivation for the setup of the problem along with an explanation of the solutions with discussion.
